@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment1.params=number
+comment1.target=boolean\ validCC(java.lang.String)
+comment1.text=\r\n\ Valid\ a\ Credit\ Card\ number\r\n
+comment2.params=number
+comment2.target=int\ getCardID(java.lang.String)
+comment2.text=\r\n\ Get\ the\ Card\ type\ returns\ the\ credit\ card\ type\ INVALID\ \=\ -1;\ VISA\ \=\ 0;\r\n\ MASTERCARD\ \=\ 1;\ AMERICAN_EXPRESS\ \=\ 2;\ DISCOVER\ \=\ 3\r\n
+comment3.params=n
+comment3.target=boolean\ isNumber(java.lang.String)
+comment4.params=id
+comment4.target=java.lang.String\ getCardName(int)
+comment5.params=n
+comment5.target=boolean\ validCCNumber(java.lang.String)
+comment6.params=filename\ cardNums
+comment6.target=void\ write(java.lang.String,\ java.util.List)
+comment6.text=\r\n\ It\ writes\ valid/Invalid\ card\ numbers\ to\ the\ file\ bases\ on\ the\ file\ name\r\n\ given.\r\n\r\n\ @param\ filename\r\n\ @param\ cardNums\r\n
+comment7.params=filename
+comment7.target=void\ read(java.lang.String)
+comment7.text=\r\n\ Read\ the\ file\ with\ the\ given\ space\ separated\ numbers\ in\ it.\r\n\r\n\ @param\ input\r\n\ filename\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

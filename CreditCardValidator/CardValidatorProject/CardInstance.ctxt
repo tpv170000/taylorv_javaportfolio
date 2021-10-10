@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CardInstance
+comment0.text=\r\n\ Instance\ class\ to\ generate\ appropriate\ instance\ of\ Card.\r\n\ \r\n\r\n
+comment1.params=cardType\ aCard
+comment1.target=CreditCard\ getCard(int,\ java.lang.String)
+numComments=2
