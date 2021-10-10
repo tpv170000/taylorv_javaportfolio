@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Payroll
+comment0.text=\r\n\ @param\ String\ as\ args\r\n\ @param\ index,\ hours,\ employeeId\ as\ int\r\n\ @param\ wages,\ payRate\ as\ double\ \r\n\ @return\ hours[index],payRate[index]\ wages[index]\ 0\ for\ normal,\ anything\ else\ is\ error\ condition\r\n\ @throws\ Nothing\ is\ implemented\r\n
+comment1.params=index\ hours
+comment1.target=void\ setHours(int,\ int)
+comment2.params=index\ payRate
+comment2.target=void\ setpayRate(int,\ double)
+comment3.params=index\ employeeId
+comment3.target=void\ setEmployeeId(int,\ int)
+comment4.params=index\ wages
+comment4.target=void\ setWages(int,\ double)
+comment5.params=index
+comment5.target=double\ getHours(int)
+comment6.params=index
+comment6.target=double\ getpayRate(int)
+comment7.params=index
+comment7.target=double\ getEmployeeId(int)
+comment8.params=index
+comment8.target=double\ getWages(int)
+comment9.params=
+comment9.target=void\ GrossPay()
+numComments=10

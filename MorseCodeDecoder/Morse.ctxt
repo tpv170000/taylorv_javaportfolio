@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Morse
+comment0.text=\r\n\ @param\ input\ String\ as\ args\r\n\ @return\ morse\ as\ string,\ 0\ for\ normal,\ anything\ else\ is\ error\ condition\r\n\ @throws\ Nothing\ is\ implemented\r\n
+comment1.params=input
+comment1.target=Morse(java.lang.String)
+comment2.params=ch
+comment2.target=java.lang.String\ toMorse(char)
+comment3.params=
+comment3.target=java.lang.String\ getMorseCode()
+comment4.params=
+comment4.target=java.lang.String\ getOriginal()
+numComments=5
